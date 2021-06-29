@@ -8,4 +8,11 @@ body{
     
 }
 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
+
 
