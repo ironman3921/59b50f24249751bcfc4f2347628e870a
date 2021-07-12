@@ -9,7 +9,7 @@
     
 }
 body{
-    background-color:whitesmoke;
+    background-color:pink;
     
 }
 
@@ -18,6 +18,10 @@ body{
     flex-wrap: wrap;
     font-family: sans-serif;
     
+}
+.grid img{
+border: 5px solid yellow;
+   border-radius :50px;
 }
 
 
