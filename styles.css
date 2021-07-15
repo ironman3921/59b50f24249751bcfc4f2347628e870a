@@ -23,5 +23,12 @@ body{
 border: 5px solid yellow;
    border-radius :50px;
 }
-
-
+a:link{
+color:orange;
+}
+a:visited{
+color:orange;
+}
+.origami:hover{
+transform: scale(1.2)
+}
